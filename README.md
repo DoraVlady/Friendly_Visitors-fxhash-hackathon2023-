@@ -1,12 +1,11 @@
-# Friendly_Visitors-fxhash-hackathon2023-
-Hackathon Entry - Friendly Visitors: A Co-Creative Generative Art Project
+# Friendly_Visitors-fxhash-hackathon2023
 
 I initiated the development of the project using the boilerplate provided by fx(hash) on GitHub and the local development environment fx(lens), relying on the file structure suggested by the fx(hash) team. Here is a brief description. 
 
 This is a breakdown of the key components and functionalities coded within the shared.js file:
-•	Color Palette and Center Color:
-o	The array 'colors' contains a variety of 9 color values.
-o	The variable ‘centerColor’ is assigned a randomly selected color from the colors array. This color will be used for the central element of the artwork.
+  •	Color Palette and Center Color:
+  o	The array 'colors' contains a variety of 9 color values.
+  o	The variable ‘centerColor’ is assigned a randomly selected color from the colors array. This color will be used for the central element of the artwork.
 •	Shadow and Line Settings:
 o	The variable ‘Blur’ represents the shadow blur applied to the canvas.
 o	The canvas context's shadow blur is set to the ‘Blur’ value, creating a shadow effect around elements.
@@ -52,7 +51,10 @@ In summary, minting.js is the engine that drives the rendering, interaction, and
 This script empowers the users to explore a world of creative possibilities through real-time easy interaction.
 
 The Fx(hash) Hackathon 2023 provided the perfect opportunity to create and present this project, and I am excited to see how it resonates with others. 
-![image](https://github.com/DoraVlady/Friendly_Visitors-fxhash-hackathon2023-/assets/61335910/ff70065d-b539-4065-8534-30d26ab74e0d)
+
+
+
+
 
 
 
